@@ -1,0 +1,4 @@
+we are in CCRM practice team
+main resposibilities are 
+we are doing build and deployments in this team
+
