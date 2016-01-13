@@ -1,7 +1,0 @@
-in this sheet provides and info how many builds went for production
-major releases/ Monthly
-minor releases/weekly
-
-these are below types of applications went for production
-WCS+FED apps went for jenkins builds, deployment went through devops portal
-GRID_22 apps went for opsware tool, deployment went for devops portal
